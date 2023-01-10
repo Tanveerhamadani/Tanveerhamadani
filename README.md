@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanveerhamadani
-- 👀 I’m interested in Web Development and Cyber Security.
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently doing MCA
 
 
